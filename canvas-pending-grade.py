@@ -1,4 +1,4 @@
-# Teacher Canvas Assignment Alert Tool (CAATT)
+# Teacher Canvas Assignment Alert Tool for Teachers (CAATT)
 # Henry Acevedo (original Author)
 # Refactored by Jeff Henline (2024) for use on AWS and to be managed by database rather than hard-coded
 # 
