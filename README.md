@@ -1,11 +1,11 @@
-# Teacher Canvas Assignment Alert Tool for Teachers (CAATT)
+# Canvas Assignment Alert Tool for Teachers (CAATT)
 
 ## Author
 - **Original Author**: Henry Acevedo
 - **Refactored by**: Jeff Henline (2024)
 
 ## Overview
-The Teacher Canvas Assignment Alert Tool for Teachers (CAATT) is designed to assist educators in monitoring and managing ungraded submissions in specified Canvas courses. The tool automates the process of identifying pending submissions and notifying designated recipients via email, streamlining the grading process.
+The Canvas Assignment Alert Tool for Teachers (CAATT) is designed to assist educators in monitoring and managing ungraded submissions in specified Canvas courses. The tool automates the process of identifying pending submissions and notifying designated recipients via email, streamlining the grading process.
 
 ## Purpose
 This script monitors pending submissions in the Canvas courses listed in the “caatt” table. Upon detecting ungraded submissions, CAATT automatically sends an email notification to the designated recipients, providing details about the students and links to their ungraded work.

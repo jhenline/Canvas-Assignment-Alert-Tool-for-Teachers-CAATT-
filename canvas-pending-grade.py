@@ -1,11 +1,3 @@
-# Teacher Canvas Assignment Alert Tool for Teachers (CAATT)
-# Henry Acevedo (original Author)
-# Refactored by Jeff Henline (2024) for use on AWS and to be managed by database rather than hard-coded
-# 
-# Purpose: This script monitors pending submissions in specified Canvas courses, as listed in the “caatt” table. 
-# Upon detecting ungraded submissions, the tool automatically sends an email notification to the designated 
-# recipients, providing details about the students and links to their ungraded work.
-
 from tabulate import tabulate
 from canvasapi import Canvas
 from configparser import ConfigParser
